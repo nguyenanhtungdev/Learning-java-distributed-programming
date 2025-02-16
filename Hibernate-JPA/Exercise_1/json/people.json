@@ -1,0 +1,133 @@
+[
+    {
+        "firstName": "Cinthia",
+        "lastName": "Johnston",
+        "age": 29,
+        "address": {
+            "streetAddress": "5397 Bins Shoal",
+            "city": "New Wilfordmouth",
+            "state": "California",
+            "postalCode": 74216
+        },
+        "phoneNumber": [
+            {
+                "type": "home",
+                "number": "(765) 611-2911"
+            }
+        ]
+    },
+    {
+        "firstName": "Edith",
+        "lastName": "Schumm",
+        "age": 51,
+        "address": {
+            "streetAddress": "681 Teodoro Way",
+            "city": "New Krishna",
+            "state": "California",
+            "postalCode": 15340
+        },
+        "phoneNumber": [
+            {
+                "type": "fax",
+                "number": "(254) 735-9362"
+            }
+        ]
+    },
+    {
+        "firstName": "Trinidad",
+        "lastName": "Wyman",
+        "age": 49,
+        "address": {
+            "streetAddress": "126 Streich Ridges",
+            "city": "Lake Marta",
+            "state": "New Jersey",
+            "postalCode": 35692
+        },
+        "phoneNumber": [
+            {
+                "type": "work",
+                "number": "(505) 581-6078"
+            },
+            {
+                "type": "work",
+                "number": "(847) 932-3927"
+            }
+        ]
+    },
+    {
+        "firstName": "Jeanine",
+        "lastName": "Bergstrom",
+        "age": 54,
+        "address": {
+            "streetAddress": "85187 Koelpin Isle",
+            "city": "New Pearliemouth",
+            "state": "Massachusetts",
+            "postalCode": 69623
+        },
+        "phoneNumber": [
+            {
+                "type": "home",
+                "number": "(360) 246-0186"
+            },
+            {
+                "type": "home",
+                "number": "(480) 779-3281"
+            }
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "MacGyver",
+        "age": 28,
+        "address": {
+            "streetAddress": "87966 Lissa Way",
+            "city": "New Rutha",
+            "state": "Ohio",
+            "postalCode": 6401
+        },
+        "phoneNumber": [
+            {
+                "type": "fax",
+                "number": "(730) 212-5177"
+            },
+            {
+                "type": "home",
+                "number": "(505) 622-7983"
+            }
+        ]
+    },
+    {
+        "firstName": "Natalia",
+        "lastName": "Ortiz",
+        "age": 58,
+        "address": {
+            "streetAddress": "391 Kunde Lodge",
+            "city": "Kerlukebury",
+            "state": "Georgia",
+            "postalCode": 87290
+        },
+        "phoneNumber": [
+            {
+                "type": "work",
+                "number": "(952) 566-1412"
+            }
+        ]
+    },
+    {
+        "firstName": "Margaret",
+        "lastName": "Armstrong",
+        "age": 47,
+        "address": {
+            "streetAddress": "7133 Rippin Inlet",
+            "city": "Jesusburgh",
+            "state": "Iowa",
+            "postalCode": 58842
+        },
+        "phoneNumber": [
+            {
+                "type": "work",
+                "number": "(305) 421-4600"
+            }
+        ]
+    }
+]
